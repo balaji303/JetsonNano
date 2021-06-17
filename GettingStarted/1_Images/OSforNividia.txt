@@ -1,0 +1,5 @@
+-> Download the SD card images from https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
+
+-> Before loading the  image into a SD card of size 16GB or above format the SD card
+
+-> Use Balena Etcher to flash the image in to the sd card
