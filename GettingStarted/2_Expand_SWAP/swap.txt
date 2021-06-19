@@ -1,0 +1,28 @@
+-> Open Terminal
+
+-> free -m
+
+Disable the ZRAM
+
+-> sudo systemctl disable nvzramconfig
+
+Create 4GB swap file
+
+-> sudo fallocate -l 4G /mnt/4GB.swap
+
+-> sudo mkswap /mnt/4GB.swap
+
+-> sudo vi /etc/fstab
+
+Append the following line to /etc/fstab
+Opens VIM editor. Insert this line
+
+-> /mnt/4GB.swap swap swap defaults 0 0
+
+and exit the vim editor using :wq 
+
+Reboot the device once and type
+
+-> free -m 
+
+we can see that the device has 4GB swap
