@@ -1,0 +1,9 @@
+-> Insert the Data cable to the Nvidia, also ethernet, SD card with image, camera
+
+Here we will see how to use Nvidia from Windows  PC
+
+-> Open Windows  Power Shell
+
+-> ssh <nvidiaUsername>@192.168.55.1
+
+Now you can access Nvidia using this shell in Windows  PC which is the terminal of Nvidia
