@@ -1,0 +1,28 @@
+-> echo "sudo docker run --runtime nvidia -it --rm --network host \
+    --volume ~/nvdli-data:/nvdli-nano/data \
+    --volume /tmp/argus_socket:/tmp/argus_socket \
+    --device /dev/video0 \
+    nvcr.io/nvidia/dli/dli-nano-ai:v2.0.1-r32.4.4" > docker_dli_run.sh
+
+Run the above docker command if your using CSI camera
+
+-> echo "sudo docker run --runtime nvidia -it --rm --network host \
+    --volume ~/nvdli-data:/nvdli-nano/data \
+    --device /dev/video0 \
+    nvcr.io/nvidia/dli/dli-nano-ai:v2.0.1-r32.4.4" > docker_dli_run.sh
+
+Run the above command if your using USB webcamera
+
+-> http://192.168.55.1:8888/
+
+Use the above link to access Jupyter notebook
+
+-> dlinano
+
+This is the passwowrd for notebook
+
+-> The Notebook opens sucessfully, open a terminal which opens a container in the Nano
+
+-> free -m
+
+Run the above command in the terminal
