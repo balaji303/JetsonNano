@@ -1,0 +1,7 @@
+-> Navigate to the hello_camera folder
+
+-> click the usb_camera.ipynb notebook
+
+-> Run the code using run button
+
+-> The executed step appears with a number
