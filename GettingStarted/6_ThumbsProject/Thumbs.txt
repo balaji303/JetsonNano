@@ -1,0 +1,11 @@
+-> Open Classification Folder
+
+-> Open classification_interactive.ipynb 
+
+-> If the camera is already running in another project it throughs an error
+
+-> Stop the running project and resume the current project
+
+-> We are going to train the Neural Network by taking the  images of  Thumbs Up and Thumbs  down so when we run the project it detects the live feed wheather the Thumbs up or  down
+
+-> A new dir called data will be opened Up
