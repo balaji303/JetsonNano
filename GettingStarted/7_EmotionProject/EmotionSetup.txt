@@ -1,0 +1,8 @@
+-> First clear the output of the previous Project use 
+Kernel->Restart Kernel and Clear All Outputs
+
+-> For this project we will use the same classification_interactive.ipynb
+
+-> All we need to do is to uncomment the code for Emotion task and comment the other tasks
+
+-> Then we have to train the model
