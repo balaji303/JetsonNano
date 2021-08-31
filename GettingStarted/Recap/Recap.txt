@@ -1,0 +1,10 @@
+-> Steps involved in classification
+ Collect Data -> Train Model -> Live Demostration
+
+-> PyTorch is the Framework we used
+
+-> For our projects, we modified the last layer of a pre-trained ResNet-18 model. The last layer is a Fully connected Layer
+
+-> We used PyTorch provided pre-trained ResNet-18 architecture. ImageNet was the dataset ResNet-18 pre trained on.
+
+-> Adam is the optimizer used for training the model	

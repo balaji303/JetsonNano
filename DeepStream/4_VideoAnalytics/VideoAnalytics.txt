@@ -1,0 +1,7 @@
+-> The DeepStream SDK generic streaming analytics architecture defines an extensible video processsing pipeline that can be used to perform interface,object tracking and reporting.
+
+-> As DeepStream applications analyze each video frame
+
+-> The Plugins extract information and store it as pipeline represents the complete set of information extracted from the frame by the deep learning models and other analytics plugins.
+
+-> The extracted information can be used for DeepStream application for display

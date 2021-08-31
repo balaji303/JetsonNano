@@ -1,0 +1,22 @@
+-> Open the  regression notebook
+
+-> Open the regression_interactive.ipynb
+
+-> Run the Camera setup block
+
+-> Task definition(Face) with 3 different categories(Nose, Left eye, right eye)
+
+-> Create Data directory for regression
+
+-> set the Model and widget
+
+-> set the Live execcuption data block
+
+-> Train the model
+
+-> Now, if we go to the data dir and check the image we can see that the  name of the image is same as the x and y axis of the nose,eye
+
+-> The main difference between Image classification and Image regression is the classification is done on a photo(not live) while the regression is done on the live video feed of the camera
+
+-> the ResNet-18 Architecture have 18 Layers: 17 convolutional layers and 1 fullyconnected layer
+

@@ -1,0 +1,5 @@
+-> DeepStream applications introduce deep neural networks and other complex processing tasks into a stream processing pipeline to enable near real-time analytics on video and other sensor data.
+
+-> Capture data, Preprocessing it, Use AI Detect and Track, Send Metadata to Dataserver and cloud, Analytics and Visualisation.
+
+ 

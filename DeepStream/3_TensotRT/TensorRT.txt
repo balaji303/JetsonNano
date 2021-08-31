@@ -1,0 +1,1 @@
+-> TensorRT is a high performance neural network optimizer and runtime engine. It focuses specifically on running a pre-trained network quickly and efficiently, using a GPU for the purpose of generating a result.

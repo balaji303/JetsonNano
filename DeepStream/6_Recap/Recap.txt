@@ -1,0 +1,13 @@
+-> GST-nvinfer plugin is used for Performs transform(format conversion and scaling), on the input frame based on networkrequirement, and passes the transformed data to the low level library and also performs inferencing on input data using NVIDIA Tensor RT
+
+-> Hardware Accelerator maximises the performance of GPU, DLA, PVA
+
+-> Gst-NVINFER supports Multi-class object detection, multi-label classification and segmentation
+
+-> The use of Gst-NVINFER is it forms a batch of frames from one or multiple input sources and it also collects an average of (batch-size/num-source) frames per batch from each source
+
+-> The batch size for multiple stream inputs are equal to or proportional to the number of input streams
+
+-> Deep stream video output and be saved from anything GStreamer supports
+
+-> Deep stream SDK is based on the GStreamer framework, is supported on systems that contains NVIDIA Jetson modules and NVIDIA dGPU adapters, has a plugin interface for TensorRT for inferencing deep learning networks

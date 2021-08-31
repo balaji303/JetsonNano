@@ -1,0 +1,8 @@
+-> http://192.168.55.1:8888/
+
+-> Password=dlinano
+
+-> Open the 01_ObjDetect.ipynb
+
+-> Some useful projects
+	@ https://github.com/pjreddie/darknet
